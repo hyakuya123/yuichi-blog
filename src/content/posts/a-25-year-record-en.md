@@ -22,7 +22,7 @@ Second, I also write the moments when I stood on the side of the bystander. To l
 
 Third, I write the emotions, but not abuse. For twenty-five years, no one has heard this account laid out in order. Setting it down in order, for the first time, is enough for me.
 
-## 1. Elementary School --- Yamagata University Affiliated Elementary School (a national-university-affiliated elementary school in Yamagata Prefecture)
+## 1. Elementary School — Yamagata University Affiliated Elementary School (a national-university-affiliated elementary school in Yamagata Prefecture)
 
 Except for the two years my parents spent in Denmark for their research, I spent the four years of my elementary schooling at this school, bullied the entire time.
 
@@ -38,7 +38,7 @@ Mr. So and Mr. Sh told me to show them my underwear in a deserted corner of a pa
 
 After a physical education class, when I had changed down to my underwear, Mr. Sh, smiling, put his hand into my underwear, grabbed my genitals and exposed them. It took me about a minute to understand what was happening. The teacher and the girls were in the classroom.
 
-Mr. So and Mr. Sh called me outside and, knowing I was not used to riding a bicycle, pointed to a set of stacked steps and said: "Get on the bicycle and ride down these steps. This is training." I knew the steps were dangerous, and I felt that if I rode down them I might, in the worst case, die. I did it anyway, because I had no choice. The bicycle lost its balance and I tumbled off. Fortunately I was not badly hurt. Watching me, Mr. So said: "Amazing --- you've got courage!" I felt a violent wrongness.
+Mr. So and Mr. Sh called me outside and, knowing I was not used to riding a bicycle, pointed to a set of stacked steps and said: "Get on the bicycle and ride down these steps. This is training." I knew the steps were dangerous, and I felt that if I rode down them I might, in the worst case, die. I did it anyway, because I had no choice. The bicycle lost its balance and I tumbled off. Fortunately I was not badly hurt. Watching me, Mr. So said: "Amazing — you've got courage!" I felt a violent wrongness.
 
 My memory is faded, but I think I was examined at a hospital after another instance of violence from them as well.
 
@@ -56,9 +56,9 @@ I'll write it honestly. Alongside a certain sympathy for him, I also held a dire
 
 This was the first time I saw perpetrator and victim change places.
 
-After I returned to Japan, in fifth and sixth grade, real power in the class had shifted from the boys to the girls. I was made a target by a group of girls centred on Ms. I, and I was isolated. No one seriously tried to help. They targeted other boys too. Seeing the see-through nipples of a boy in his underwear, they said "Gross!" and threw his ballpoint pen to the floor and broke it. Mr. Mi, whom the girls avoided as "disgusting" --- inwardly, I too wanted to keep my distance from him. Mr. F, who was himself being bullied, began to bully me as if venting his frustration. While I was using the toilet, he kicked my backside with all his strength from behind, and laughed at me as I cowered.
+After I returned to Japan, in fifth and sixth grade, real power in the class had shifted from the boys to the girls. I was made a target by a group of girls centred on Ms. I, and I was isolated. No one seriously tried to help. They targeted other boys too. Seeing the see-through nipples of a boy in his underwear, they said "Gross!" and threw his ballpoint pen to the floor and broke it. Mr. Mi, whom the girls avoided as "disgusting" — inwardly, I too wanted to keep my distance from him. Mr. F, who was himself being bullied, began to bully me as if venting his frustration. While I was using the toilet, he kicked my backside with all his strength from behind, and laughed at me as I cowered.
 
-On the sixth-grade outing, I was harassed by a first-grader in the same group. Although I could have bullied back, I couldn't do it. Watching that, the girls in my class were exasperated: "That guy --- he's even getting bullied by the little kids."
+On the sixth-grade outing, I was harassed by a first-grader in the same group. Although I could have bullied back, I couldn't do it. Watching that, the girls in my class were exasperated: "That guy — he's even getting bullied by the little kids."
 
 The last swimming class of sixth grade. I said I felt unwell and asked my homeroom teacher, Mr. M, to let me be absent. The reason I was absent was that this class required changing clothes. Because of the sexual harm I had suffered in the past, I hated this class. The teacher decided my claim was a lie and half-forced me: "You've been lying all along, haven't you? You never had any intention of taking part in swimming, did you?" In the end I changed and took part. When swimming was over, unaware of my own physiological reaction, I was insulted as "old man" by the girls who noticed it, and Mr. Ya and the others pointed out my genital response.
 
@@ -66,11 +66,11 @@ If the teacher had not decided that the reason for my absence was laziness, I wo
 
 The same year, while I was using a private toilet stall, Mr. Sh climbed up the door and peered in at me. Even in sixth grade, despite having suffered sexual harm himself in the past, he was "the same as ever."
 
-About a month before graduation, Ms. Ma --- who should have had no interest in me --- said, somewhat forlornly: "You're going to Aichi Prefecture, aren't you. I'm going to a different middle school from everyone else." She often acted together with Ms. I and was someone who felt nothing at seeing me isolated. One day, seeing me using the classroom toilet paper because I had no tissues to blow my nose, she said "You're gross!" and walked away. There has never been a single apology. After entering the working world, I came to interpret her words like this: a person who had always stood on the side of those who select was sensing the fear of standing, in turn, on the side of those who are selected. And she was confiding that anxiety to a person who was "easy to confide in" --- that is, a person she did not regard as an equal --- only now.
+About a month before graduation, Ms. Ma — who should have had no interest in me — said, somewhat forlornly: "You're going to Aichi Prefecture, aren't you. I'm going to a different middle school from everyone else." She often acted together with Ms. I and was someone who felt nothing at seeing me isolated. One day, seeing me using the classroom toilet paper because I had no tissues to blow my nose, she said "You're gross!" and walked away. There has never been a single apology. After entering the working world, I came to interpret her words like this: a person who had always stood on the side of those who select was sensing the fear of standing, in turn, on the side of those who are selected. And she was confiding that anxiety to a person who was "easy to confide in" — that is, a person she did not regard as an equal — only now.
 
 For the sake of fairness, I'll add one thing: the ringleader, Mr. Ya, once apologised to me, a single time, for what he had done to me in the past. That remains in my memory. But I had not forgiven him.
 
-## 2. Middle and High School --- Aichi Prefecture
+## 2. Middle and High School — Aichi Prefecture
 
 With my mother's move, I went on to a middle school in Aichi Prefecture. For a long time I thought middle and high school had been peaceful, but that was only me rewriting my memory to suit myself.
 
@@ -86,11 +86,11 @@ I have had unknown boys stroke my cheek and run off. Mr. F, when I was seated, p
 
 In my first year of high school, a large "friend," Mr. Sa, said on the way home: "Since I'm keeping you company like this, don't you think you could buy me a drink, or give me some money?" and when I said something he didn't like, he hit me on the head. I gave in to his demands several times. I still felt I was not being treated as an equal.
 
-## 3. The COVID Years --- "The Fault Lies with the One Who Was Slandered"
+## 3. The COVID Years — "The Fault Lies with the One Who Was Slandered"
 
 Over the several years of the COVID period, I lived, in this order: Yamato City in Kanagawa Prefecture; Kameari in Katsushika Ward, Tokyo; a detached house in Shibamata; and my current apartment. I write them in that order.
 
-Not long after the COVID period began, my eyelids swelled and would not open fully --- I developed ptosis. I don't know whether it was stress-induced. Perhaps my appearance was a factor: at work, my superior said "how gross," and a colleague and a partner employee (a dispatched worker) sang it as a song, "how gro-oss." The matter reached the ears of the company president, who said to me in an online meeting: "The bullying you've experienced has become a topic within the company. I'm sorry I couldn't make you happy."
+Not long after the COVID period began, my eyelids swelled and would not open fully — I developed ptosis. I don't know whether it was stress-induced. Perhaps my appearance was a factor: at work, my superior said "how gross," and a colleague and a partner employee (a dispatched worker) sang it as a song, "how gro-oss." The matter reached the ears of the company president, who said to me in an online meeting: "The bullying you've experienced has become a topic within the company. I'm sorry I couldn't make you happy."
 
 It wasn't only at work. On street corners in Tokyo and in Yamato City, Kanagawa Prefecture, passing strangers would look at me and say "how gross," intermittently and repeatedly. And, citing the sounds of my daily life, neighbours at several apartments slandered me as well.
 
@@ -102,7 +102,11 @@ At an apartment in Kameari, Katsushika Ward, Tokyo, immediately after I finished
 
 When I consulted the daily-life consultation section of the Kameari Police Station, asking "isn't this bullying?", the officer said: "But you're the one who did an online interview in an apartment, aren't you!!"
 
-Six months later, I rented a detached house in Shibamata. There were no neighbours and the trouble dropped to zero. When I again brought a complaint about the previous apartment to the police station, the officer in charge said "I'll ask that neighbour for their account," but later that officer was transferred to another section, and, moreover, had recorded that "the person consented to closing the investigation" --- something I never said. The next person in charge ended the call by saying: "Well, you're living in a detached house now with zero trouble, right? Then isn't that good? Let's forget about this."
+Six months later, I rented a detached house in Shibamata. There were no neighbours and the trouble dropped to zero. When I brought a complaint about the previous apartment to the police station again, the officer in charge said, suspiciously: "Where are you living now? You said you moved, didn't you? And are you being called gross, being slandered, there too?" It was as if he were saying that the cause of the slander lay with me, and that therefore there was no problem. I answered: "I'm living in a detached house now. I don't recall being told anything since."
+
+I would add this: every time I have consulted the police about a problem in this way, I have always been asked for my name, date of birth, contact details, address — and the name of the company I belong to. Name and contact details are presumably needed for the record. But is it really necessary to ask a person who has come to report slander which company they work for? I also have a faint memory of being asked "where are you working these days?" in a way that seemed to be checking whether I was unemployed. That question, which seems to appraise the standing of the person seeking help, strikes me as wrong.
+
+Afterwards this officer said, "I'll ask that neighbour for their account," but he was later transferred to another section, and, moreover, had recorded that "the person consented to closing the investigation" — something I never said. The next person in charge ended the call by saying: "Well, you're living in a detached house now with zero trouble, right? Then isn't that good? Let's forget about this."
 
 When I phoned yet another lawyer, they said in a suspicious tone "Isn't the problem with you?" and "We'll require a consultation fee of several tens of thousands of yen."
 
@@ -114,7 +118,7 @@ Looking back, noise trouble with neighbours occurred frequently across the count
 
 Even now, I listen to music through headphones rather than speakers, and I bought an expensive keyboard and mouse whose quietness is expressly stated, and I am writing this text on them.
 
-## 4. The Workplace --- "The One Who Died Was at Fault"
+## 4. The Workplace — "The One Who Died Was at Fault"
 
 When I was at an IT company, the president was a thirty-year-old man from Hokkaido. In his school days, he said, he was struck in the face and eyes daily by upperclassmen in a club, and feared he might go blind. An acquaintance his age, he told me, was tied by the body with rope to a car by "self-styled friends," dragged around the town, suffered fatal injuries, and died.
 
@@ -128,7 +132,7 @@ Do you remember the case in Asahikawa where a girl in middle school froze to dea
 
 I learned something later. In a tracking survey by the National Institute for Educational Policy Research, over the six years from fourth grade of elementary school to third grade of middle school, more than 90% of children experienced both being a victim and being a perpetrator of bullying. Even over three years, it exceeds 80%. The proportion of bystanders increases the higher the grade [3]. It is not rare for a victim to turn into a perpetrator.
 
-In the Ministry of Education's fiscal 2024 survey, the number of recognised cases of bullying was 769,000 --- the highest ever --- at 61.3 per 1,000 students [4]. By prefecture, Yamagata Prefecture was first in the nation at 117.7 per 1,000 students, followed by Yamanashi at 102.3 and Hokkaido at 101.4. Yamagata has been the highest in the nation for five consecutive years. The Ministry of Education explains this figure as "a sign of actively recognising bullying without overlooking it." Given that the 2013 law broadened the definition and called for even minor cases to be counted, it is surely true that the more diligently a municipality counts, the more its figures rise. But that explanation cannot account for the fact that, in Yamagata and in Hokkaido, children are dying. In 2025 the number of suicides among elementary, middle and high school students was 538 --- the highest since statistics began in 1980. The most common cause or motive was school-related problems, at 251 [5].
+In the Ministry of Education's fiscal 2024 survey, the number of recognised cases of bullying was 769,000 — the highest ever — at 61.3 per 1,000 students [4]. By prefecture, Yamagata Prefecture was first in the nation at 117.7 per 1,000 students, followed by Yamanashi at 102.3 and Hokkaido at 101.4. Yamagata has been the highest in the nation for five consecutive years. The Ministry of Education explains this figure as "a sign of actively recognising bullying without overlooking it." Given that the 2013 law broadened the definition and called for even minor cases to be counted, it is surely true that the more diligently a municipality counts, the more its figures rise. But that explanation cannot account for the fact that, in Yamagata and in Hokkaido, children are dying. In 2025 the number of suicides among elementary, middle and high school students was 538 — the highest since statistics began in 1980. The most common cause or motive was school-related problems, at 251 [5].
 
 Yamagata Prefecture, where I was born, and Hokkaido, where the president was from. In both, children are dying because of bullying.
 
@@ -146,7 +150,7 @@ In elementary school, Mr. Sh, who had been a perpetrator, became a victim. In mi
 
 The weak internalise the logic of the strong, and trample the next weak.
 
-This is not a conspiracy. People who have been trampled turn to the side that tramples, so as not to be trampled. People who could not turn to the trampling side go on being trampled. In the classroom, in the workplace, in the apartment, in the family, in the state --- there is the same structure.
+This is not a conspiracy. People who have been trampled turn to the side that tramples, so as not to be trampled. People who could not turn to the trampling side go on being trampled. In the classroom, in the workplace, in the apartment, in the family, in the state — there is the same structure.
 
 And I, too, was inside it. I wanted to keep my distance from Mr. Mi. I watched Ms. O's pencil case scatter. I watched Mr. F be shot and cry. I was, at once, a victim and a bystander. If I did not write that, this record would be a lie.
 
