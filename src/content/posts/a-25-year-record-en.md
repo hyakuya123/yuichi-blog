@@ -148,6 +148,8 @@ Laying out twenty-five years, what I see is one thing.
 
 In elementary school, Mr. Sh, who had been a perpetrator, became a victim. In middle school, Mr. F, who had been a victim, declared "this time I'll stand on the side that bullies." "There's also a problem on the side of the one being bullied," a teacher said. "The fault lies with the one who was slandered," the police and a lawyer said. "The one who died was at fault," a business owner who had survived bullying said. "We have no intention of taking the side of the weak," celebrities and politicians on television said.
 
+And this year, everywhere I went for help with a consumer dispute, the answer was the same. "There is no law that protects you." "You will have to find a lawyer." Put another way: you paid the money, so it is on you. I have written up that sequence [separately](/blog/airbnb-account-removal-en).
+
 The weak internalise the logic of the strong, and trample the next weak.
 
 This is not a conspiracy. People who have been trampled turn to the side that tramples, so as not to be trampled. People who could not turn to the trampling side go on being trampled. In the classroom, in the workplace, in the apartment, in the family, in the state — there is the same structure.
