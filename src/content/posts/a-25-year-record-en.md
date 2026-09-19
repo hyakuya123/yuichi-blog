@@ -80,7 +80,7 @@ A few days after enrolling, a student named Mr. F said, laughing, probably meani
 
 Around the same time, Mr. F, together with other boys, threw the pencil case of Ms. O, who sat next to him, onto the ground. Ms. O, sighing "haah," gathered up the scattered pens and pencils. I merely watched.
 
-My homeroom teacher, who taught English, once said in the middle of small talk: "There's also a problem on the side of the one being bullied."
+In my first year of middle school, my homeroom teacher, who taught English, said this once in the middle of small talk with some of the girls: "There's also a problem on the side of the one being bullied."
 
 I have had unknown boys stroke my cheek and run off. Mr. F, when I was seated, pressed his arm into my crotch with all his strength and said "I felt your thing, you know." I tried to retaliate, but he was stronger and stopped me. In my second year of middle school, that same Mr. F was shot with a toy gun loaded with marbles and shed tears at the pain. Here too I was a bystander. Around the same time, on the way home, another student kissed me on the cheek, and, fearing retaliation, I let it pass.
 
@@ -146,7 +146,7 @@ The people of Japan will not move unless "a victim everyone can sympathise with"
 
 Laying out twenty-five years, what I see is one thing.
 
-In elementary school, Mr. Sh, who had been a perpetrator, became a victim. In middle school, Mr. F, who had been a victim, declared "this time I'll stand on the side that bullies." "There's also a problem on the side of the one being bullied," a teacher said. "The fault lies with the one who was slandered," the police and a lawyer said. "The one who died was at fault," a business owner who had survived bullying said. "We have no intention of taking the side of the weak," celebrities and politicians on television said.
+In elementary school, Mr. Sh, who had been a perpetrator, became a victim. In middle school, Mr. F, who had been a victim, declared "this time I'll stand on the side that bullies." "There's also a problem on the side of the one being bullied," my middle-school homeroom teacher said. "The fault lies with the one who was slandered," the police and a lawyer said. "The one who died was at fault," a business owner who had survived bullying said. "We have no intention of taking the side of the weak," celebrities and politicians on television said.
 
 And this year, everywhere I went for help with a consumer dispute, the answer was the same. "There is no law that protects you." "You will have to find a lawyer." Put another way: you paid the money, so it is on you. I have written up that sequence [separately](/blog/airbnb-account-removal-en).
 
