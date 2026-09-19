@@ -35,7 +35,24 @@ const CATEGORY_MAP: Record<string, { label: string; emoji: string; keywords: str
   personal: {
     label: "Personal",
     emoji: "💭",
-    keywords: ["personalgrowth", "mentalhealth", "careerchange", "aboutme"],
+    keywords: [
+      "personalgrowth",
+      "mentalhealth",
+      "careerchange",
+      "aboutme",
+      // 個人的な記録（25年の記録 / Airbnb / 法律相談 など、日英両方）
+      "記録",
+      "record",
+      "いじめ",
+      "bullying",
+      "ptsd",
+      "消費者問題",
+      "consumer rights",
+      "法律相談",
+      "legal",
+      "弁護士",
+      "airbnb",
+    ],
   },
   gaming: {
     label: "Gaming",
@@ -49,11 +66,26 @@ const CATEGORY_MAP: Record<string, { label: string; emoji: string; keywords: str
   },
 };
 
+/**
+ * Match a tag against a category keyword.
+ *
+ * Latin keywords must match on a word boundary, so the tag "Airbnb" no
+ * longer matches the keyword "ai" while "AI Literacy" and "Liquid AI"
+ * still do. Japanese keywords have no word boundaries, so they match as
+ * a plain substring.
+ */
+function tagMatches(tag: string, keyword: string): boolean {
+  const t = tag.toLowerCase();
+  if (t === keyword) return true;
+  if (/[^\x00-\x7F]/.test(keyword)) return t.includes(keyword);
+  const escaped = keyword.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return new RegExp(`(^|[^a-z0-9])${escaped}([^a-z0-9]|$)`).test(t);
+}
+
 function getPostCategory(tags: string[]): string[] {
-  const lowerTags = tags.map((t) => t.toLowerCase());
   const matched: string[] = [];
   for (const [catId, cat] of Object.entries(CATEGORY_MAP)) {
-    if (cat.keywords.some((kw) => lowerTags.some((t) => t.includes(kw)))) {
+    if (cat.keywords.some((kw) => tags.some((t) => tagMatches(t, kw)))) {
       matched.push(catId);
     }
   }
