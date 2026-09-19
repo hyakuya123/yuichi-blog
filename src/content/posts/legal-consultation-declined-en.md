@@ -70,6 +70,6 @@ If a decision is issued on the disciplinary complaint, I will add it to this acc
 
 "Personally, I'd accept it and leave the place as the company instructed."
 
-It was not the first time I had heard that sentence. My homeroom teacher in elementary school said, "There's a problem on the side of the one being bullied too." The police officer and the lawyer I consulted during the COVID years said, "The fault lies with the one who was slandered." A man who survived bullying and became a company president said, of an acquaintance who died from it, "The one who died was at fault."
+It was not the first time I had heard that sentence. My homeroom teacher in middle school said, "There's also a problem on the side of the one being bullied." The police officer and the lawyer I consulted during the COVID years said, "The fault lies with the one who was slandered." A man who survived bullying and became a company president said, of an acquaintance who died from it, "The one who died was at fault."
 
 If the person harmed backs down, the problem disappears. No one holds the person who said it responsible. I have set the same structure down across twenty-five years [here](/blog/a-25-year-record-en).
